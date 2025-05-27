@@ -1,2 +1,2 @@
 # RepositorioGames
- # Equipe: Caetano Padoin e Bruno Cristofolli
+# Equipe: Caetano Padoin e Bruno Cristofolli 
